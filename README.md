@@ -1,2 +1,2 @@
 # React-Excercise
-Simple website written in React with no backend
+Two simple websites written in React/next.js with no backend
